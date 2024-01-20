@@ -1,0 +1,6 @@
+HomeTrainerBike Tunturi; T1200; Glutes, Leg Muscles; TRUE; 234 euros
+ProteinShake AlbertHeijn; Chocolate; 1000 grams; 23 euros
+SpinningBike Tunturi; T2100; Glutes, Leg Muscles, Back, Shoulders; FALSE; 12KG; Magnetic; 499 euros
+ProteinShake QNT; Banana; 300 grams; 12 euros
+ProteinShake QNT; Vanilla; 600 grams; 20 euros
+SpinningBike VirtuFit; Radical2000; Glutes, Leg Muscles, Back, Shoulders; TRUE; 21KG; Magnetic; 799 euros
